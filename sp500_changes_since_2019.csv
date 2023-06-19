@@ -71,3 +71,5 @@ date,add,remove
 2023-03-15,"PODD,BG","SIVB,SBNY"
 2023-03-20,"FICO","LUMN"
 2023-05-04,"AXON","FRC"
+2023-05-16,"RVTY,#TODO: wait and see if this is corrected in the nasdaq data feed before adding symbol PKI to the list","PKI"
+2023-05-25,"FI,#TODO: wait and see if this is corrected in the nasdaq data feed before adding symbol FI to the list","FISV"
